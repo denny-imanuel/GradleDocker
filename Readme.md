@@ -1,4 +1,5 @@
 # Gradle Docker
+by Denny Imanuel
 
 This project shows how to dockerize Java console application that was built using Gradle configuration setup.
 
